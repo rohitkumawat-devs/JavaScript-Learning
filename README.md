@@ -8,7 +8,7 @@ This repository documents my JavaScript learning journey from basics to advanced
 - ✅ Operators & Conditional Statements
 - ✅ Loops
 - ✅ Strings
-- ⏳ Arrays
+- ✅ Arrays
 - ⏳ Functions
 - ⏳ Objects
 - ⏳ DOM
