@@ -11,8 +11,8 @@ This repository documents my JavaScript learning journey from basics to advanced
 - ✅ Arrays
 - ✅ Functions
 - ✅ DOM
+- ✅ Events
 - ⏳ Objects
-- ⏳ Events
 - ⏳ Async JavaScript
 - ⏳ Fetch API
 
