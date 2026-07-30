@@ -31,7 +31,7 @@ A simple browser-based Rock Paper Scissors game built using HTML, CSS, and JavaS
 - JavaScript (ES6+)
 - Git
 - GitHub
-- 
+
 ## 👨‍💻 Author
 
 **Rohit Kumawat**
