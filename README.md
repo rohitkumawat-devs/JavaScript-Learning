@@ -13,7 +13,7 @@ This repository documents my JavaScript learning journey from basics to advanced
 - ✅ DOM
 - ✅ Events
 - ✅ Objects & Classes
-- ⏳ Async JavaScript
+- ✅ Async JavaScript
 - ⏳ Fetch API
 
 ## 🚀 Mini Projects
