@@ -14,7 +14,7 @@ This repository documents my JavaScript learning journey from basics to advanced
 - ✅ Events
 - ✅ Objects & Classes
 - ✅ Async JavaScript
-- ⏳ Fetch API
+- ✅ Fetch API
 
 ## 🚀 Mini Projects
 
@@ -24,6 +24,14 @@ A simple browser-based Rock Paper Scissors game built using HTML, CSS, and JavaS
 - 🔗 **GitHub:** https://github.com/rohitkumawat-devs/rock-paper-scissors
 - 🌐 **Live Demo:** https://rohitkumawat-devs.github.io/rock-paper-scissors/
 
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Git
+- GitHub
+- 
 ## 👨‍💻 Author
 
 **Rohit Kumawat**
