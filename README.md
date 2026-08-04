@@ -24,6 +24,13 @@ A simple browser-based Rock Paper Scissors game built using HTML, CSS, and JavaS
 - 🔗 **GitHub:** https://github.com/rohitkumawat-devs/rock-paper-scissors
 - 🌐 **Live Demo:** https://rohitkumawat-devs.github.io/rock-paper-scissors/
 
+### 💱 Currency Converter
+
+A modern currency converter built with HTML, CSS, and JavaScript that fetches real-time exchange rates and updates country flags dynamically.
+
+- 🔗 **GitHub:** https://github.com/rohitkumawat-devs/Currency-Convertor
+- 🌐 **Live Demo:** https://rohitkumawat-devs.github.io/Currency-Convertor/
+
 ## 🛠️ Technologies Used
 
 - HTML5
